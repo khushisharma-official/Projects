@@ -1,0 +1,3 @@
+Objective:
+Escape a randomly generated maze by navigating from the start (S) to the exit (E) using arrow keys or 
+commands (w/a/s/d). Obstacles and treasures may appear.
